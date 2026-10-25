@@ -8,5 +8,4 @@
 ⟡ To get my attention please whisper me I rarely check chat/have chat closed!
 
 
-
-<img src="https://media.discordapp.net/attachments/1228060130428584102/1456420230715674706/IMG_5462.gif?ex=6ac2d909&is=6ac18789&hm=3ed798577ebdda7886b3983fc68a940a4cba67db91811a16665d73c21db3d899&=" alt="Description of GIF" width="400" height="300" />
+<img src="https://media.discordapp.net/attachments/1536158411014799360/1563782865701970040/hispanic_medkit.png?ex=6adee1c8&is=6add9048&hm=4dd3388feb5afdb40bdd9861298df9a4f5e60857b285eae5ac4193266d9a91cc&=&format=webp&quality=lossless" alt="A description of the image">
